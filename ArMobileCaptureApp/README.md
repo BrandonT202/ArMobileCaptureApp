@@ -1,4 +1,6 @@
-iOS Augmented Reality Engine
+README from ARKit by Carlos Alonso Pérez found here (https://github.com/calonso/ios-arkit)
+
+# iOS Augmented Reality Engine
 =========
 
 I'm glad to share this engine that I've been developing from time to time with all of you. It's based on the [iPhone ARKit](https://github.com/zac/iphonearkit).
